@@ -16,7 +16,7 @@
 
 `make bonus`
 - `wasd` move
-- `mouse move`change of the view
+- `mouse move` change of the view
 - `shift` run
 - `e` open the door
 
