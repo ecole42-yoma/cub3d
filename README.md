@@ -9,7 +9,7 @@
 
 # Examples
 
-## compile
+## Compile
 `make`
 - `wasd` move
 - `arrow key` change of the view 
